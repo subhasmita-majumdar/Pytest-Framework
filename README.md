@@ -54,7 +54,7 @@
 
 3. Installation
   # Clone the repository
-  git clone https://github.com/yourusername/pytest-tutorial.git  
+  git clone https://github.com/subhasmita-majumdar/Pytest-Framework.git
   
   # Navigate to project folder
   cd pytest-tutorial  
