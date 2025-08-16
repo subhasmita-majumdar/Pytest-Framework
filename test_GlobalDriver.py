@@ -2,6 +2,7 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+
 class TestPytestGlobalDriver:
 
     @pytest.fixture(scope="class",autouse=True)
