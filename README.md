@@ -57,7 +57,7 @@
   git clone https://github.com/subhasmita-majumdar/Pytest-Framework.git
   
   # Navigate to project folder
-  cd pytest-tutorial  
+  cd Pytest-tutorial  
   
   # Install dependencies
   pip install -r requirements.txt  
