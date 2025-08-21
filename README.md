@@ -76,13 +76,7 @@
   
   6. Parametrization for flexible testing
   
-  7. API testing with Pytest
-  
-  8. UI automation with Selenium & Pytest
-  
-  9. Generating HTML & Allure reports
-  
-  10. Integrating with CI/CD pipelines
+  7. UI automation basics with Selenium & Pytest
 
 
 🛠 **Best Practices**
